@@ -1,0 +1,25 @@
+-----//Partes que faltam na parte da programação do PI:
+
+(DB/QtDesign)
+Definir e revisar como a gente quer que a estrutura do banco seja (CRUD) de acordo com as funcionalidades do nosso layout no Qt Design e assim eliminar excessos.
+
+(DB/PyQt5)
+Armazenar imagem como arquivo no banco de dados. Verificar o que é necessário pra chamar imagem do banco de dados e exibir nas labels correspondentes.
+
+(QtDesign)
+verificar com o pessoal do QT se o texto não está dentro das labels/edits e não no placeHolder pra o usuário final não apagar os títulos e nomes dos campos.
+
+(QtDesign/PyQt5)
+Ajustar as tabelas na tela de pedidos e de cadastro de produtos pra exibir as informações devidas de cada tabela.
+
+(opcional)
+criar tela de cadastro login para o usuário se cadastrar. No momento está fixo o usuário e a senha da tela de login.
+
+-----//Design no figma e Qt Design: Já definido.
+-----//(Qualquer alteração vai acrescentar mais ao projeto).
+
+-----// O arquivo "branch_sistema_PI_teste.py" é uma sugestão de como o PI pode ser.
+-----// (foi feito com base na aplicação "sistema" que fizemos com o professor.
+
+-----// Pra sabermos em que ponto estamos do projeto: 
+-----// colocar no final de cada requisito "- feito" pra falicitar o processo.

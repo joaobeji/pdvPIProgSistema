@@ -1,0 +1,16 @@
+# relatorios: Pasta que os PDF das vendas
+relatorios 
+
+# Dependências Python
+__pycache__
+*.pyc
+
+# Ignora arquivos de sistema
+.DS_Store (macOS)
+Thumbs.db (Windows)
+
+# Arquivos de log
+*.log
+debug.txt
+
+tempCodeRunnerFile.py
